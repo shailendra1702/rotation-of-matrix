@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 { 
     int b[4][4],a,i,j,k,temp,n;
     
@@ -68,7 +68,6 @@ int main()
       }
      
 
-     return 0;
 
 }
 
